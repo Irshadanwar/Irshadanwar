@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hey there! I'm passionate about Data Science and Analytics, where I fuse my love for exploring data with a creative edge. Armed with Tableau, Power BI, MS Excel, Python, and Java, I tackle challenges head-on, like a data Swiss Army knife.<br><br>I'm always evolving to stay ahead in this dynamic field, not just technically but also in communication. I thrive on simplifying complex ideas and making data accessible to all. Eager to connect and contribute to impactful projects, let's make waves together
 
-
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/" height="30" width="40" /></a>
