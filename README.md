@@ -37,6 +37,5 @@ Hey there! I'm passionate about Data Science and Analytics, where I fuse my love
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irshadanwar&show_icons=true&locale=en" alt="irshadanwar" /></p>
 
-<meta name="google-site-verification" content="HaTceiTynQkH4l9TKg28es-MmrKlopIKmuc5uaVi8gM" />
 
 
