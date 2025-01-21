@@ -7,11 +7,9 @@ Hey there! I'm passionate about Data Science and Analytics, where I fuse my love
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/mdirshadanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mdirshadanwar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/anwarirshad18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anwarirshad18" height="30" width="40" /></a>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="md-irshad-anwar-8b88a9232" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/md-irshad-anwar-8b88a9232?trk=profile-badge">MD IRSHAD ANWAR</a></div>
-              
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/anwarirshad18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anwarirshad18" height="30" width="40" /></a>              
 </p>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="md-irshad-anwar-8b88a9232" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/md-irshad-anwar-8b88a9232?trk=profile-badge">MD IRSHAD ANWAR</a></div>
 
 
 
