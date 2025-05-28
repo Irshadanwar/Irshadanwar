@@ -8,21 +8,28 @@
   </a>
 </p>
 
-<!-- Social icons section (Customized for Md Irshad Anwar) -->
+<!-- Social Icons Section for Md Irshad Anwar -->
 <p align="center">
-  <a href="https://www.youtube.com/@AIbyIITian"><img width="32px" alt="YouTube" title="YouTube - AI by IITian" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@AIbyIITian" target="_blank">
+    <img width="32px" alt="YouTube" title="YouTube - AI by IITian" src="https://i.imgur.com/qiXu7b2.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="[https://www.linkedin.com/in/md-irshad-anwar](https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/)"><img width="32px" alt="LinkedIn" title="LinkedIn - Md Irshad Anwar" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/" target="_blank">
+    <img width="32px" alt="LinkedIn" title="Connect on LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/irshad_coder"><img width="32px" alt="Twitter" title="Twitter - @irshad_coder" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://x.com/phenomenal_ghost" target="_blank">
+    <img width="32px" alt="Twitter/X" title="Follow on X (formerly Twitter)" src="https://i.imgur.com/AixJgnm.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/your-discord-invite"><img width="32px" alt="Discord" title="Join My Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://medium.com/@anwarirshad18" target="_blank">
+    <img width="32px" alt="Medium" title="Read my blogs on Medium" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/mdirshad"><img width="32px" alt="Dev.to" title="Dev.to - Md Irshad" src="https://i.imgur.com/mVm29vK.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/irshad_ai"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://www.kaggle.com/mdirshadanwar" target="_blank">
+    <img width="32px" alt="Kaggle" title="Explore my Kaggle projects" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168304.png"/>
+  </a>
 </p>
-
 
 
 ![logo](https://github.com/Irshadanwar/Irshadanwar/blob/main/Github%20Banner.png)
