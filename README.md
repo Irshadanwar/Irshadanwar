@@ -4,8 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+and+Programming;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20learner;Data+Analysis;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+    <img src="https://readme-typing-svg.demolab.com?lines=Data%20Scientist%20%7C%20Business%20Analyst;4%2B%20Internships%20in%20DS%20%26%20Analytics;YouTuber%20-%20AI%20by%20IITian;Always%20curious%20%26%20learning%20new%20tech&font=Fira%20Code&center=true&width=550&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
+
 
 ![logo](https://github.com/Irshadanwar/Irshadanwar/blob/main/Github%20Banner.png)
 
