@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@AIbyIITian"><img width="32px" alt="YouTube" title="YouTube - AI by IITian" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/md-irshad-anwar"><img width="32px" alt="LinkedIn" title="LinkedIn - Md Irshad Anwar" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="[https://www.linkedin.com/in/md-irshad-anwar](https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/)"><img width="32px" alt="LinkedIn" title="LinkedIn - Md Irshad Anwar" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/irshad_coder"><img width="32px" alt="Twitter" title="Twitter - @irshad_coder" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
