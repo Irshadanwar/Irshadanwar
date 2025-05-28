@@ -4,11 +4,9 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Data%20Scientist%20%7C%20Business%20Analyst%20%7C%20Full-Stack%20Developer%20%7C%20IITIAN;Multiple%20Projects%20in%20DS%20%26%20Analytics;YouTuber%20-%20AI%20by%20IITian;Always%20Curious%20%26%20Learning%20New%20Tech&font=Fira%20Code&center=true&width=850&height=45&color=FF3131&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com?lines=Data%20Scientist%20%7C%20Business%20Analyst%20%7C%20Full%20Stack%20Developer;Multiple%20projects%20in%20DS%20%26%20Analytics;YouTuber%20-%20AI%20by%20IITian;Always%20curious%20%26%20learning%20new%20tech&font=Fira%20Code&center=true&width=800&height=45&color=FF3131&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
-
-
 
 
 
