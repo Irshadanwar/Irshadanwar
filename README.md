@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi, <b>I’m MD IRSHAD ANWAR </b> 
+ Hi, I’m MD IRSHAD ANWAR 
 </h1>
 
 <p align="center">
