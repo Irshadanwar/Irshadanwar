@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi, I’m MD IRSHAD ANWAR
+ Hi, # I’m MD IRSHAD ANWAR
 </h1>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ![logo](https://github.com/Irshadanwar/Irshadanwar/blob/main/Github%20Banner.png)
 
-# 💫 About Me:
+# About Me:
 Hey there! I'm passionate about Data Science and Analytics, where I fuse my love for exploring data with a creative edge. Armed with Tableau, Power BI, MS Excel, Python, and Java, I tackle challenges head-on, like a data Swiss Army knife.<br><br>I'm always evolving to stay ahead in this dynamic field, not just technically but also in communication. I thrive on simplifying complex ideas and making data accessible to all. Eager to connect and contribute to impactful projects, let's make waves together ❤️
 
 <h1 align="left">Connect with me:</h1>
