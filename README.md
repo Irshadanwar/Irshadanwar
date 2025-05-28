@@ -1,3 +1,8 @@
+<h1 align="center">
+ Hi, I’m MD IRSHAD ANWAR
+  <img src="https://media.giphy.com/media/uUlz4hzm20jFUMxnBi/giphy.gif" width="34" > 
+</h1>
+
 ![logo](https://github.com/Irshadanwar/Irshadanwar/blob/main/Github%20Banner.png)
 
 # 💫 About Me:
